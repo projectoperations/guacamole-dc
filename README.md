@@ -13,8 +13,8 @@ You need a working **docker** installation and **docker-compose** running on you
 Clone the GIT repository and start guacamole:
 
 ~~~bash
-git clone "https://github.com/mysmartspaces/guacamole-container.git"
-cd guacamole-container
+git clone "https://github.com/mysmartspaces/guacamole-dc.git"
+cd guacamole-dc
 ./prepare.sh
 docker-compose up -d
 ~~~
